@@ -34,9 +34,9 @@ Write a program in which, the method main performs the following actions:
 The program will input a single value `t` for the time after its release.
 
 #### Output Format
+The speed of the object at <t> seconds after its release is <speed> and the distance the object has travelled in the <t> seconds after the relase is <distance>
 The program will output the calculated values in the following format:
 ```
-The speed of the object at <t> seconds after its release is <speed> and the distance the object has travelled in the <t> seconds after the relase is <distance>
 ```
 ---
 
